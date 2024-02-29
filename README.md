@@ -3,7 +3,8 @@
 
 - 🔭I am a student at Anadolu University Computer Programming department.
 - 🌱 I am taking Development Expertise Training at the Infotech Academy course.
-- 🌱 I am learning ASP.NET CORE MVC.
+- 🌱 I am learning APİ comsume for ASP.NET CORE MVC.
+- 🌱 I prepare projects for backend.
 - 🤔 I'm new here, my projects will increase over time.
 
 ### TECHNOLOGİES
