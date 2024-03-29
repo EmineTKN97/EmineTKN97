@@ -23,7 +23,7 @@
 </div>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/emine-tekin-5b1095250/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="eminetekin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/emine-tekin97/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="eminetekin" height="30" width="30" /></a>
 <a href="https://instagram.com/eminetekin_97" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="emimetekin" height="30" width="30" /></a>
 <a href="eminetkn.97@gmail.com"  target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png" alt="eminetekin" height="30" width="30"></a
 </p>
